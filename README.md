@@ -1,4 +1,4 @@
-### *Turning raw data into decisions — one notebook at a time*
+## Turning raw data into decisions — one notebook at a time
  
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-F29111?style=for-the-badge&logo=postgresql&logoColor=white)
