@@ -232,6 +232,35 @@ class AutoEDA:
 ---
  
 
+## 🛠️ Tech Stack & Skills
+ 
+<div align="center">
+ 
+### Languages & Query
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-F29111?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+ 
+### Data & ML
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
+ 
+### Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat-square)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly)
+ 
+### Scraping & NLP
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-59b347?style=flat-square)
+![Requests](https://img.shields.io/badge/-Requests-FF6B6B?style=flat-square)
+![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE?style=flat-square)
+![TextBlob](https://img.shields.io/badge/-TextBlob-6DB33F?style=flat-square)
+ 
+</div>
+ 
+---
 ---
  
 ## 🧩 Core Competencies
